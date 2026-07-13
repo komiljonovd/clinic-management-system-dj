@@ -161,7 +161,15 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'config.wsgi.application'
 
+import sys
 
+# Test paytida Redis o'rniga DummyCache ishlatish
+if 'test' in sys.argv:
+    CACHES = {
+        "default": {"BACKEND": "django.core.cache.backends.dummy.DummyCache"},
+        "sessions": {"BACKEND": "django.core.cache.backends.dummy.DummyCache"}
+    }
+    CELERY_BROKER_URL = None
 # Database
 # https://docs.djangoproject.com/en/6.0/ref/settings/#databases
 
