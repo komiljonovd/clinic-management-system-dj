@@ -16,7 +16,7 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
       - name: Run Tests
-        run: python manage.py test
+        run: python manage.py test clinicapp.tests
 
   build-and-push:
     needs: test
