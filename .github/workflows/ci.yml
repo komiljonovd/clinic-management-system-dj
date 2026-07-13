@@ -34,7 +34,7 @@ jobs:
       - name: Run Tests
         env:
           # Actions ichida "db" hosti localhost bo'ladi
-          DB_HOST: db
+          DB_HOST: localhost
           DB_NAME: Management
           DB_USER: postgres
           DB_PASSWORD: "1"
