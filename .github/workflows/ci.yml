@@ -7,6 +7,22 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    
+    # BAZA VA REDIS NI SHU YERDA ISHGA TUSHIRAMIZ
+    services:
+      db:
+        image: postgres:15
+        env:
+          POSTGRES_DB: Management
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: "1"
+        ports:
+          - 5432:5432
+      redis:
+        image: redis:alpine
+        ports:
+          - 6379:6379
+
     steps:
       - uses: actions/checkout@v3
       - name: Set up Python
@@ -16,14 +32,11 @@ jobs:
       - name: Install Dependencies
         run: pip install -r requirements.txt
       - name: Run Tests
+        env:
+          # Actions ichida "db" hosti localhost bo'ladi
+          DB_HOST: localhost
+          DB_NAME: Management
+          DB_USER: postgres
+          DB_PASSWORD: "1"
+          SECRET_KEY: test-key-123
         run: python manage.py test clinicapp.tests
-
-  build-and-push:
-    needs: test
-    runs-on: ubuntu-latest
-    steps:
-      - name: Build and Push Docker Image
-        run: |
-          echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin
-          docker build -t my-app-image:latest .
-          docker push my-app-image:latest
