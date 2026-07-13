@@ -202,25 +202,46 @@ DATABASES = {
 #     }
 # }
 
+IS_TESTING = os.environ.get('IS_TESTING', 'False') == 'True'
 
-CACHES = {
-
-    "default": {  
-        "BACKEND": "django_redis.cache.RedisCache",
-        "LOCATION": env('BACKEND_REDIS_URL'),
-        "OPTIONS": {
-            "CLIENT_CLASS": "django_redis.client.DefaultClient",
-        }
-    },
-
-    "sessions": {  
-        "BACKEND": "django_redis.cache.RedisCache",
-        "LOCATION": env('SESSION_REDIS_URL'), 
-        "OPTIONS": {
-            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+if IS_TESTING:
+    CACHES = {
+        "default": {"BACKEND": "django.core.cache.backends.dummy.DummyCache"},
+        "sessions": {"BACKEND": "django.core.cache.backends.dummy.DummyCache"}
+    }
+    CELERY_BROKER_URL = None
+else:
+    CACHES = {
+        "default": {
+            "BACKEND": "django_redis.cache.RedisCache",
+            "LOCATION": env('BACKEND_REDIS_URL'),
+            "OPTIONS": {"CLIENT_CLASS": "django_redis.client.DefaultClient"}
+        },
+        "sessions": {
+            "BACKEND": "django_redis.cache.RedisCache",
+            "LOCATION": env('SESSION_REDIS_URL'),
+            "OPTIONS": {"CLIENT_CLASS": "django_redis.client.DefaultClient"}
         }
     }
-}
+    CELERY_BROKER_URL = env('CELERY_BROKER_URL')
+# CACHES = {
+
+#     "default": {  
+#         "BACKEND": "django_redis.cache.RedisCache",
+#         "LOCATION": env('BACKEND_REDIS_URL'),
+#         "OPTIONS": {
+#             "CLIENT_CLASS": "django_redis.client.DefaultClient",
+#         }
+#     },
+
+#     "sessions": {  
+#         "BACKEND": "django_redis.cache.RedisCache",
+#         "LOCATION": env('SESSION_REDIS_URL'), 
+#         "OPTIONS": {
+#             "CLIENT_CLASS": "django_redis.client.DefaultClient",
+#         }
+#     }
+# }
 
 
 SESSION_ENGINE = "django.contrib.sessions.backends.cache"
