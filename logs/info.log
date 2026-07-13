@@ -1,0 +1,2109 @@
+INFO 2026-07-13 14:15:13,743 User: None(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 14:15:38,483 User: None(ID:4) | POST http://127.0.0.1:8000/admin/logout/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 14:15:40,505 User: Anonymous | GET http://127.0.0.1:8000/appointment/ | Status: 403 | Time: 0.00s
+INFO 2026-07-13 14:28:22,825 User: Anonymous | GET http://127.0.0.1:8000/appointment/ | Status: 403 | Time: 0.00s
+INFO 2026-07-13 14:28:22,933 User: Anonymous | GET http://127.0.0.1:8000/appointment/ | Status: 403 | Time: 0.00s
+INFO 2026-07-13 14:28:23,064 User: Anonymous | GET http://127.0.0.1:8000/appointment/ | Status: 403 | Time: 0.00s
+INFO 2026-07-13 14:28:35,519 User: Anonymous | GET http://127.0.0.1:8000/appointment/ | Status: 403 | Time: 0.00s
+INFO 2026-07-13 14:28:35,825 User: Anonymous | GET http://127.0.0.1:8000/appointment/ | Status: 403 | Time: 0.00s
+INFO 2026-07-13 14:28:35,953 User: Anonymous | GET http://127.0.0.1:8000/appointment/ | Status: 403 | Time: 0.00s
+INFO 2026-07-13 14:28:36,080 User: Anonymous | GET http://127.0.0.1:8000/appointment/ | Status: 403 | Time: 0.00s
+INFO 2026-07-13 14:28:36,248 User: Anonymous | GET http://127.0.0.1:8000/appointment/ | Status: 403 | Time: 0.00s
+INFO 2026-07-13 14:28:36,360 User: Anonymous | GET http://127.0.0.1:8000/appointment/ | Status: 403 | Time: 0.00s
+INFO 2026-07-13 14:28:43,740 User: Anonymous | GET http://127.0.0.1:8000/admin/ | Status: 302 | Time: 0.01s
+INFO 2026-07-13 14:28:43,927 User: Anonymous | GET http://127.0.0.1:8000/admin/login/?next=/admin/ | Status: 200 | Time: 0.18s
+INFO 2026-07-13 14:28:49,226 User: Anonymous | POST http://127.0.0.1:8000/admin/login/?next=/admin/ | Status: 302 | Time: 0.41s
+INFO 2026-07-13 14:28:49,257 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 14:28:51,992 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 14:28:52,601 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 14:32:04,486 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:09,698 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 14:32:13,785 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 14:32:13,846 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.02s
+INFO 2026-07-13 14:32:21,165 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:21,670 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:21,807 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:21,950 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:22,098 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:22,254 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:22,399 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:22,549 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:22,712 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:22,833 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:22,968 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:32:23,125 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:39:02,382 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:40:00,306 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.20s
+INFO 2026-07-13 14:40:00,371 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.05s
+INFO 2026-07-13 14:40:01,380 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/11/change/ | Status: 200 | Time: 0.15s
+INFO 2026-07-13 14:40:01,394 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 14:40:06,581 User: komiljonooov.d@gmail.com(ID:4) | PUT http://127.0.0.1:8000/appointment/11 | Status: 400 | Time: 0.01s
+INFO 2026-07-13 14:40:17,758 User: komiljonooov.d@gmail.com(ID:4) | PUT http://127.0.0.1:8000/appointment/11 | Status: 400 | Time: 0.01s
+INFO 2026-07-13 14:40:24,819 User: komiljonooov.d@gmail.com(ID:4) | PUT http://127.0.0.1:8000/appointment/11 | Status: 400 | Time: 0.01s
+INFO 2026-07-13 14:40:52,485 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:40:52,640 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.03s
+INFO 2026-07-13 14:45:54,818 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/billing/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:46:05,739 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 14:46:10,987 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 14:46:11,513 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 14:46:11,663 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 14:46:11,796 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 14:46:31,011 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 14:46:39,079 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 14:46:56,132 User: Anonymous | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.55s
+INFO 2026-07-13 14:47:37,946 User: Anonymous | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.55s
+INFO 2026-07-13 15:08:04,779 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/ | Status: 200 | Time: 0.16s
+INFO 2026-07-13 15:08:04,806 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:08:07,300 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/add/ | Status: 200 | Time: 0.07s
+INFO 2026-07-13 15:08:07,321 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:08:15,779 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/medicalrecord/add/ | Status: 200 | Time: 0.15s
+INFO 2026-07-13 15:08:15,797 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:08:19,371 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:08:19,391 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:08:20,454 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/1/change/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:08:20,468 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:08:26,138 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/medicalrecord/1/change/ | Status: 302 | Time: 0.18s
+INFO 2026-07-13 15:08:26,187 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:08:26,209 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:10:21,892 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:10:21,921 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:10:23,387 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:10:23,404 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:10:55,745 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:10:55,765 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:10:57,660 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/add/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:10:57,676 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:10:59,673 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:10:59,690 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:11:00,641 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:11:00,656 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:11:01,357 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/laboratory/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:11:01,373 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:11:02,053 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/laboratory/add/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:11:02,069 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:11:10,693 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/laboratory/add/ | Status: 200 | Time: 0.10s
+INFO 2026-07-13 15:11:10,709 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:11:20,272 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/laboratory/add/ | Status: 302 | Time: 0.10s
+INFO 2026-07-13 15:11:20,309 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/laboratory/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:11:20,333 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:11:47,619 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:11:47,640 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:11:49,409 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/billing/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:11:49,529 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:11:51,058 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:11:51,077 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:11:51,480 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/billing/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:11:51,495 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:11:53,234 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/billing/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:11:53,253 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:12:03,566 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:12:03,695 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.05s
+INFO 2026-07-13 15:12:04,819 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:12:04,978 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.12s
+INFO 2026-07-13 15:17:16,182 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.05s
+INFO 2026-07-13 15:17:18,686 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:17:18,806 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:17:30,683 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:19:07,111 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=ko | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:19:13,201 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=komil | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:25:35,021 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:25:35,135 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:25:49,984 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:26:05,766 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=z | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:27:29,246 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:27:29,788 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:27:36,014 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:28:57,053 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.28s
+INFO 2026-07-13 15:28:57,513 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.02s
+INFO 2026-07-13 15:29:04,120 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:33:50,764 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.06s
+INFO 2026-07-13 15:33:56,444 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:33:57,273 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:33:57,978 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:33:58,498 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:34:15,084 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:34:48,973 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.07s
+INFO 2026-07-13 15:35:02,737 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:36:09,427 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:36:21,321 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.06s
+INFO 2026-07-13 15:36:31,480 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:36:40,200 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/usersapp/user/ | Status: 200 | Time: 0.08s
+INFO 2026-07-13 15:36:40,222 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:36:55,040 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:36:57,727 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:36:57,874 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:36:58,021 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:36:58,160 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:36:58,269 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:36:58,387 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:36:58,532 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:36:58,656 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:36:58,773 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:36:58,897 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:36:59,043 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:37:10,894 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:37:11,085 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:37:14,053 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.06s
+INFO 2026-07-13 15:37:24,377 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:37:26,038 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:37:26,933 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:37:27,333 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:37:30,468 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:37:31,683 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:37:32,717 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:37:46,456 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:37:48,362 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=-created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:37:49,487 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=-created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:34,116 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=-created_at | Status: 200 | Time: 0.11s
+INFO 2026-07-13 15:38:34,322 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:38:34,583 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=-created_at | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:38:34,645 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:38:34,745 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=-created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:34,803 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:38:34,893 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=-created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:34,947 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:38:35,068 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=-created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:35,126 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:38:35,238 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=-created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:35,296 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:38:37,307 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:38,861 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:44,747 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:45,198 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:45,498 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:45,747 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:46,002 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:38:57,570 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.10s
+INFO 2026-07-13 15:38:58,806 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:39:10,984 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.11s
+INFO 2026-07-13 15:39:11,112 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:39:11,196 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:39:12,114 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:39:13,757 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:39:14,228 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:39:14,378 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:39:14,548 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:39:14,745 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:39:30,127 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/billing/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:39:37,176 User: Anonymous | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.50s
+INFO 2026-07-13 15:39:50,413 User: Anonymous | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.42s
+INFO 2026-07-13 15:40:01,993 User: Anonymous | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.54s
+INFO 2026-07-13 15:40:08,439 User: Anonymous | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.41s
+INFO 2026-07-13 15:40:12,978 User: Anonymous | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.41s
+INFO 2026-07-13 15:41:09,041 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.12s
+INFO 2026-07-13 15:41:09,241 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:41:11,027 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:41:11,083 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:41:11,210 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:41:11,266 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:41:11,365 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:41:11,428 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:41:11,479 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:41:11,545 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:41:15,091 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:41:28,458 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.11s
+INFO 2026-07-13 15:41:36,893 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/billing/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:41:38,527 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/billing/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:41:46,846 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/.well-known/appspecific/com.chrome.devtools.json | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:42:29,689 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:42:29,771 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/.well-known/appspecific/com.chrome.devtools.json | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:42:29,928 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:42:32,985 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:42:37,394 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:42:37,457 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/.well-known/appspecific/com.chrome.devtools.json | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:42:37,635 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:42:39,108 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:42:39,169 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/.well-known/appspecific/com.chrome.devtools.json | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:42:39,319 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:42:41,859 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:42:41,926 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/.well-known/appspecific/com.chrome.devtools.json | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:42:42,093 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:42:45,858 User: Anonymous | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.42s
+INFO 2026-07-13 15:42:55,517 User: Anonymous | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.44s
+INFO 2026-07-13 15:43:05,636 User: Anonymous | GET http://127.0.0.1:8000/patient/1 | Status: 404 | Time: 0.48s
+INFO 2026-07-13 15:43:13,154 User: Anonymous | GET http://127.0.0.1:8000/patient/4 | Status: 200 | Time: 0.43s
+INFO 2026-07-13 15:43:20,005 User: Anonymous | GET http://127.0.0.1:8000/patient/6 | Status: 200 | Time: 0.41s
+INFO 2026-07-13 15:43:27,326 User: Anonymous | GET http://127.0.0.1:8000/patient/4 | Status: 200 | Time: 0.40s
+INFO 2026-07-13 15:43:31,401 User: Anonymous | GET http://127.0.0.1:8000/patient/6 | Status: 200 | Time: 0.40s
+INFO 2026-07-13 15:43:49,218 User: Anonymous | GET http://127.0.0.1:8000/patient/6 | Status: 200 | Time: 0.43s
+INFO 2026-07-13 15:43:50,800 User: Anonymous | GET http://127.0.0.1:8000/patient/6 | Status: 200 | Time: 0.59s
+INFO 2026-07-13 15:44:04,516 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/usersapp/user/ | Status: 200 | Time: 0.06s
+INFO 2026-07-13 15:44:04,534 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:44:05,629 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:44:05,642 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:44:22,384 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/usersapp/user/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:44:22,395 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:44:31,187 User: Anonymous | GET http://127.0.0.1:8000/patient/6 | Status: 200 | Time: 0.42s
+INFO 2026-07-13 15:44:39,368 User: Anonymous | GET http://127.0.0.1:8000/patient/2 | Status: 200 | Time: 0.41s
+INFO 2026-07-13 15:44:44,127 User: Anonymous | GET http://127.0.0.1:8000/patient/8 | Status: 200 | Time: 0.40s
+INFO 2026-07-13 15:44:57,879 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/billing/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:45:02,741 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:45:02,952 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/.well-known/appspecific/com.chrome.devtools.json | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:45:03,158 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:45:09,221 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:45:21,246 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:45:21,304 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/.well-known/appspecific/com.chrome.devtools.json | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:45:21,466 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:45:27,969 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/billing/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:45:32,546 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:45:32,629 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/.well-known/appspecific/com.chrome.devtools.json | Status: 404 | Time: 0.01s
+INFO 2026-07-13 15:45:32,784 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:45:37,749 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:46:07,155 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:46:07,350 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:46:10,609 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:47:29,170 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.10s
+INFO 2026-07-13 15:47:31,799 User: komiljonooov.d@gmail.com(ID:4) | OPTIONS http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:47:33,254 User: komiljonooov.d@gmail.com(ID:4) | OPTIONS http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:47:33,858 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:47:34,448 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:47:34,585 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:47:34,813 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:47:34,945 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:47:56,124 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:47:58,356 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:47:58,369 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:48:00,253 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:48:00,267 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:48:03,449 User: Anonymous | GET http://127.0.0.1:8000/patient/8 | Status: 200 | Time: 0.40s
+INFO 2026-07-13 15:48:32,084 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.10s
+INFO 2026-07-13 15:48:33,070 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:48:34,258 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:49:12,880 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/8/change/ | Status: 200 | Time: 0.05s
+INFO 2026-07-13 15:49:12,894 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:49:15,780 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/patient/8/change/ | Status: 302 | Time: 0.03s
+INFO 2026-07-13 15:49:15,810 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:49:15,826 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:49:22,636 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:49:22,759 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:49:27,953 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:49:32,143 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:49:32,225 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:49:37,605 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:49:41,788 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:49:41,869 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:51:38,225 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:51:38,243 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:51:38,969 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/11/change/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:51:38,985 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:51:40,660 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/appointment/11/change/ | Status: 302 | Time: 0.03s
+INFO 2026-07-13 15:51:40,677 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:51:40,694 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:51:41,443 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/billing/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:51:41,584 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:51:42,273 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/billing/1/change/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:51:42,287 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:51:43,564 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/billing/1/change/ | Status: 302 | Time: 0.03s
+INFO 2026-07-13 15:51:43,583 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/billing/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:51:43,599 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:51:44,486 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:51:44,498 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:51:45,082 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/2/change/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:51:45,096 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:51:46,510 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/doctor/2/change/ | Status: 302 | Time: 0.02s
+INFO 2026-07-13 15:51:46,525 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:51:46,543 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:51:47,317 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/laboratory/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:51:47,329 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:51:48,149 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/laboratory/2/change/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:51:48,163 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:51:50,136 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/laboratory/2/change/ | Status: 302 | Time: 0.02s
+INFO 2026-07-13 15:51:50,148 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/laboratory/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:51:50,165 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:51:50,759 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:51:50,771 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:51:51,770 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/1/change/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:51:51,779 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:51:53,830 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/medicalrecord/1/change/ | Status: 302 | Time: 0.01s
+INFO 2026-07-13 15:51:53,841 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:51:53,851 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:52:02,511 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:52:02,518 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:52:03,609 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/8/change/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:52:03,617 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:52:05,084 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/patient/8/change/ | Status: 302 | Time: 0.02s
+INFO 2026-07-13 15:52:05,096 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:52:05,108 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:52:05,826 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:52:05,834 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:52:06,609 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/1/change/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:52:06,617 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:52:09,160 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/prescription/1/change/ | Status: 302 | Time: 0.02s
+INFO 2026-07-13 15:52:09,171 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:52:09,184 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:54:08,628 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.05s
+INFO 2026-07-13 15:54:16,536 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:54:20,612 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.05s
+INFO 2026-07-13 15:54:20,623 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:54:21,922 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:54:21,930 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:54:29,381 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:54:54,261 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.09s
+INFO 2026-07-13 15:54:56,176 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:54:56,755 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:54:56,985 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:55:01,334 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=komil | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:57:32,723 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 15:57:47,092 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=komil | Status: 200 | Time: 0.09s
+INFO 2026-07-13 15:57:53,532 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:58:02,289 User: Anonymous | GET http://127.0.0.1:8000/patient/8 | Status: 200 | Time: 0.38s
+INFO 2026-07-13 15:58:15,903 User: Anonymous | GET http://127.0.0.1:8000/patient/8 | Status: 200 | Time: 0.36s
+INFO 2026-07-13 15:58:19,605 User: Anonymous | GET http://127.0.0.1:8000/patient/8 | Status: 200 | Time: 0.37s
+INFO 2026-07-13 15:58:31,974 User: Anonymous | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.37s
+INFO 2026-07-13 15:58:47,467 User: Anonymous | GET http://127.0.0.1:8000/patient/?search=kom | Status: 200 | Time: 0.37s
+INFO 2026-07-13 15:58:53,103 User: Anonymous | GET http://127.0.0.1:8000/patient/?search=aziz | Status: 200 | Time: 0.37s
+INFO 2026-07-13 15:59:01,732 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=s | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:59:07,687 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=az | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:59:12,479 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=az | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:59:14,046 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at&search=az | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:59:15,932 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=-created_at&search=az | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:59:31,954 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 15:59:31,965 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:59:32,409 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/?o=1.-6 | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:59:32,418 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:59:32,748 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/3/change/?_changelist_filters=o%3D1.-6 | Status: 200 | Time: 0.02s
+INFO 2026-07-13 15:59:32,756 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 15:59:34,397 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/patient/3/change/?_changelist_filters=o%3D1.-6 | Status: 302 | Time: 0.01s
+INFO 2026-07-13 15:59:34,411 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/?o=1.-6 | Status: 200 | Time: 0.01s
+INFO 2026-07-13 15:59:34,423 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:02:45,219 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor | Status: 404 | Time: 0.02s
+INFO 2026-07-13 16:02:45,299 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/ | Status: 200 | Time: 0.08s
+INFO 2026-07-13 16:02:53,410 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:02:53,421 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:02:54,929 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/add/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:02:54,939 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:03:09,140 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/doctor/add/ | Status: 302 | Time: 0.02s
+INFO 2026-07-13 16:03:09,153 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:03:09,165 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:03:13,111 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:03:24,894 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search=kda | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:03:56,005 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search=l | Status: 200 | Time: 0.09s
+INFO 2026-07-13 16:04:05,627 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search=lor | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:13,455 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search=lor | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:17,137 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search=lor | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:17,440 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search=lor | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:17,748 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search=lor | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:27,675 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search=lor | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:32,417 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:36,446 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:38,836 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:43,350 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:44,278 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:45,157 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:45,504 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:46,031 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:46,327 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:46,620 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:04:55,005 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:05:00,619 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:06:18,396 User: Anonymous | GET http://127.0.0.1:8000/doctor/1 | Status: 404 | Time: 2.07s
+INFO 2026-07-13 16:06:18,424 User: Anonymous | GET http://127.0.0.1:8000/doctor/1/ | Status: 403 | Time: 0.02s
+INFO 2026-07-13 16:06:25,082 User: Anonymous | GET http://127.0.0.1:8000/patient/ | Status: 403 | Time: 0.00s
+INFO 2026-07-13 16:06:33,359 User: Anonymous | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 302 | Time: 0.00s
+INFO 2026-07-13 16:06:33,388 User: Anonymous | GET http://127.0.0.1:8000/admin/login/?next=/admin/clinicapp/doctor/ | Status: 200 | Time: 0.02s
+ERROR 2026-07-13 16:06:40,429 
+======================================================================
+[TIME]: 2026-07-13 16:06:40
+[USER]: Anonymous
+[URL]: http://127.0.0.1:8000/admin/login/?next=/admin/clinicapp/doctor/
+[DATA]: csrfmiddlewaretoken=7PQXKWUwy0dJ9szPvOQ3vI0wOtkdrQljtyp2yQMrfPaRLo3dsPDnNBxk5dfMmdN4&username=komiljonooov.d%40gmail.com&password=1&next=%2Fadmin%2Fclinicapp%2Fdoctor%2F
+[ERROR]: ConnectionError: Error 10061 connecting to 127.0.0.1:6379. Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django_redis\cache.py", line 48, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django_redis\cache.py", line 162, in has_key
+    return self.client.has_key(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django_redis\client\default.py", line 830, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\admin\sites.py", line 450, in login
+    return LoginView.as_view(**defaults)(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\decorators\debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\auth\views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\generic\base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\generic\edit.py", line 151, in post
+    return self.form_valid(form)
+           ~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\auth\views.py", line 108, in form_valid
+    auth_login(self.request, form.get_user())
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\auth\__init__.py", line 187, in login
+    request.session.cycle_key()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 434, in cycle_key
+    self.create()
+    ~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\sessions\backends\cache.py", line 55, in create
+    self._session_key = self._get_new_session_key()
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 198, in _get_new_session_key
+    if not self.exists(session_key):
+           ~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\sessions\backends\cache.py", line 117, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\core\cache\backends\base.py", line 301, in __contains__
+    return self.has_key(key)
+           ~~~~~~~~~~~~^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django_redis\cache.py", line 55, in _decorator
+    raise e.__cause__  # type: ignore[misc] # noqa: B904
+    ^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django_redis\client\default.py", line 828, in has_key
+    return client.exists(key) == 1
+           ~~~~~~~~~~~~~^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\commands\core.py", line 2971, in exists
+    return self.execute_command("EXISTS", *names, keys=names)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\client.py", line 798, in execute_command
+    return self._execute_command(*args, **options)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\client.py", line 804, in _execute_command
+    conn = self.connection or pool.get_connection()
+                              ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\utils.py", line 258, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\connection.py", line 3163, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\connection.py", line 1007, in connect
+    self.retry.call_with_retry(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda: self.connect_check_health(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        lambda error: self.disconnect(error),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\retry.py", line 132, in call_with_retry
+    raise error
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\retry.py", line 120, in call_with_retry
+    return do()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\connection.py", line 1008, in <lambda>
+    lambda: self.connect_check_health(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        check_health=True, retry_socket_connect=False
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ),
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\connection.py", line 1056, in connect_check_health
+    raise e
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+======================================================================
+INFO 2026-07-13 16:06:40,430 User: Anonymous | POST http://127.0.0.1:8000/admin/login/?next=/admin/clinicapp/doctor/ | Status: 500 | Time: 2.65s
+ERROR 2026-07-13 16:07:17,788 
+======================================================================
+[TIME]: 2026-07-13 16:07:17
+[USER]: Anonymous
+[URL]: http://127.0.0.1:8000/admin/login/?next=/admin/clinicapp/doctor/
+[DATA]: csrfmiddlewaretoken=7PQXKWUwy0dJ9szPvOQ3vI0wOtkdrQljtyp2yQMrfPaRLo3dsPDnNBxk5dfMmdN4&username=komiljonooov.d%40gmail.com&password=1&next=%2Fadmin%2Fclinicapp%2Fdoctor%2F
+[ERROR]: ConnectionError: Error 10061 connecting to 127.0.0.1:6379. Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django_redis\cache.py", line 48, in _decorator
+    return method(self, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django_redis\cache.py", line 162, in has_key
+    return self.client.has_key(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django_redis\client\default.py", line 830, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 10061 connecting to 127.0.0.1:6379. Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\admin\sites.py", line 450, in login
+    return LoginView.as_view(**defaults)(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\decorators\debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\auth\views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\generic\base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\generic\edit.py", line 151, in post
+    return self.form_valid(form)
+           ~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\auth\views.py", line 108, in form_valid
+    auth_login(self.request, form.get_user())
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\auth\__init__.py", line 187, in login
+    request.session.cycle_key()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 434, in cycle_key
+    self.create()
+    ~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\sessions\backends\cache.py", line 55, in create
+    self._session_key = self._get_new_session_key()
+                        ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\sessions\backends\base.py", line 198, in _get_new_session_key
+    if not self.exists(session_key):
+           ~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\contrib\sessions\backends\cache.py", line 117, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\core\cache\backends\base.py", line 301, in __contains__
+    return self.has_key(key)
+           ~~~~~~~~~~~~^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django_redis\cache.py", line 55, in _decorator
+    raise e.__cause__  # type: ignore[misc] # noqa: B904
+    ^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django_redis\client\default.py", line 828, in has_key
+    return client.exists(key) == 1
+           ~~~~~~~~~~~~~^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\commands\core.py", line 2971, in exists
+    return self.execute_command("EXISTS", *names, keys=names)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\client.py", line 798, in execute_command
+    return self._execute_command(*args, **options)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\client.py", line 804, in _execute_command
+    conn = self.connection or pool.get_connection()
+                              ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\utils.py", line 258, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\connection.py", line 3163, in get_connection
+    connection.connect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\connection.py", line 1007, in connect
+    self.retry.call_with_retry(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        lambda: self.connect_check_health(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        lambda error: self.disconnect(error),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\retry.py", line 132, in call_with_retry
+    raise error
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\retry.py", line 120, in call_with_retry
+    return do()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\connection.py", line 1008, in <lambda>
+    lambda: self.connect_check_health(
+            ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        check_health=True, retry_socket_connect=False
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ),
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\redis\connection.py", line 1056, in connect_check_health
+    raise e
+redis.exceptions.ConnectionError: Error 10061 connecting to 127.0.0.1:6379. Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+======================================================================
+INFO 2026-07-13 16:07:17,788 User: Anonymous | POST http://127.0.0.1:8000/admin/login/?next=/admin/clinicapp/doctor/ | Status: 500 | Time: 2.43s
+INFO 2026-07-13 16:07:26,176 User: Anonymous | POST http://127.0.0.1:8000/admin/login/?next=/admin/clinicapp/doctor/ | Status: 302 | Time: 0.40s
+INFO 2026-07-13 16:07:26,214 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:07:26,234 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:07:30,111 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:07:30,125 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:07:34,354 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:07:34,361 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:07:34,807 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/billing/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:07:35,115 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:07:35,225 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:07:35,234 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:07:35,917 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/laboratory/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:07:35,924 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:07:36,329 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:07:36,338 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:07:37,075 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:07:37,084 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:07:37,482 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:07:37,490 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:07:38,944 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:07:38,955 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:08:24,835 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.11s
+INFO 2026-07-13 16:08:24,844 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:08:25,611 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/5/change/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:08:25,618 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:09:09,733 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/1/ | Status: 404 | Time: 0.07s
+INFO 2026-07-13 16:09:16,005 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/6/ | Status: 404 | Time: 0.01s
+INFO 2026-07-13 16:09:18,592 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/4/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:09:23,612 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:09:34,235 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:09:40,551 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/doctor/5/change/ | Status: 302 | Time: 0.11s
+INFO 2026-07-13 16:09:40,592 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:09:40,607 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:09:46,272 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/?search=18 | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:10:05,824 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:10:12,966 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/usersapp/user/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 16:10:12,977 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:10:16,995 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:10:17,002 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:10:18,666 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/usersapp/user/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:10:18,673 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:10:19,847 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/usersapp/user/9/change/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:10:19,860 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:10:35,202 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/usersapp/user/9/change/ | Status: 302 | Time: 0.03s
+INFO 2026-07-13 16:10:35,214 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/usersapp/user/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:10:35,228 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:10:37,843 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:10:41,798 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=sar | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:10:44,104 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=sar | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:10:52,038 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/usersapp/user/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:10:52,046 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:11:27,751 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.09s
+INFO 2026-07-13 16:11:38,259 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:11:38,923 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:11:39,146 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:11:39,500 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:11:39,735 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:11:42,529 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:11:46,418 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=created_at&search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:11:50,059 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?ordering=-created_at&search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:12:05,615 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=as | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:12:08,453 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=s | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:13:45,855 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=s | Status: 200 | Time: 0.08s
+INFO 2026-07-13 16:13:47,310 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=s | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:13:47,470 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/favicon.ico | Status: 404 | Time: 0.01s
+INFO 2026-07-13 16:13:52,306 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=s | Status: 200 | Time: 0.08s
+INFO 2026-07-13 16:13:57,774 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=s | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:02,155 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:07,976 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.09s
+INFO 2026-07-13 16:14:18,224 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:14:18,234 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:18,776 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/11/change/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:14:18,784 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:21,153 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/appointment/11/change/ | Status: 302 | Time: 0.02s
+INFO 2026-07-13 16:14:21,164 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:21,176 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:21,912 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/billing/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:22,048 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:23,370 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/billing/1/change/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:23,379 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:24,919 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/billing/1/change/ | Status: 302 | Time: 0.02s
+INFO 2026-07-13 16:14:24,930 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/billing/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:24,941 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:25,638 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:25,646 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:26,853 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/2/change/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:26,860 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:28,354 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/doctor/2/change/ | Status: 302 | Time: 0.01s
+INFO 2026-07-13 16:14:28,366 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:28,379 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:29,000 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/laboratory/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:29,007 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:29,786 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/laboratory/2/change/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:29,794 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:32,264 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/laboratory/2/change/ | Status: 302 | Time: 0.01s
+INFO 2026-07-13 16:14:32,274 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/laboratory/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:32,286 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:32,831 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:32,838 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:33,464 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/1/change/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:33,472 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:34,775 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/medicalrecord/1/change/ | Status: 302 | Time: 0.01s
+INFO 2026-07-13 16:14:34,786 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/medicalrecord/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:34,797 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:35,553 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:35,562 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:36,596 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/8/change/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:36,604 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:37,613 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/patient/8/change/ | Status: 302 | Time: 0.01s
+INFO 2026-07-13 16:14:37,626 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:37,638 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:38,519 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:38,527 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:39,095 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/1/change/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:14:39,104 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:41,367 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/prescription/1/change/ | Status: 302 | Time: 0.02s
+INFO 2026-07-13 16:14:41,378 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:14:41,389 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:14:48,712 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:15:03,771 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:15:12,169 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:15:14,280 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:15:15,122 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:15:15,879 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:15:16,582 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:15:17,235 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:15:19,591 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=s | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:15:30,319 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=s | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:15:40,357 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=aziz | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:15:47,777 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=aziz | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:33:10,804 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.07s
+INFO 2026-07-13 16:33:10,928 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.07s
+INFO 2026-07-13 16:33:13,792 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.07s
+INFO 2026-07-13 16:34:56,128 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:34:56,190 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:35:04,512 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=kom | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:35:09,886 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:35:18,596 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=az | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:35:27,888 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 16:35:27,903 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:35:30,131 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/add/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:35:30,142 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:35:39,368 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/appointment/add/ | Status: 302 | Time: 0.02s
+INFO 2026-07-13 16:35:39,383 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:35:39,395 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:35:44,108 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=az | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:35:50,392 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:36:01,031 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=uk | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:36:39,023 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=uk | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:36:43,456 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:36:55,291 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=sarvar | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:37:25,686 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=sarvar | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:37:26,231 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=sarvar | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:37:26,418 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=sarvar | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:37:27,353 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:37:27,413 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.02s
+ERROR 2026-07-13 16:37:31,609 
+======================================================================
+[TIME]: 2026-07-13 16:37:31
+[USER]: None(ID:4)
+[URL]: http://127.0.0.1:8000/appointment/?search=sar
+[DATA]: No body
+[ERROR]: FieldError: Unsupported lookup 'full_name__icontains' for OneToOneField or join on the field not permitted.
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\generics.py", line 243, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\clinicapp\views\cache.py", line 15, in list
+    response = super().list(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\generics.py", line 154, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\filters.py", line 157, in filter_queryset
+    queryset = queryset.filter(reduce(operator.and_, conditions))
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\db\models\query.py", line 1542, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\db\models\query.py", line 1560, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\db\models\query.py", line 1570, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\db\models\sql\query.py", line 1676, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+                ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\db\models\sql\query.py", line 1708, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\db\models\sql\query.py", line 1533, in build_filter
+    return self._add_q(
+           ~~~~~~~~~~~^
+        filter_expr,
+        ^^^^^^^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\db\models\sql\query.py", line 1708, in _add_q
+    child_clause, needed_inner = self.build_filter(
+                                 ~~~~~~~~~~~~~~~~~^
+        child,
+        ^^^^^^
+    ...<7 lines>...
+        update_join_types=update_join_types,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\db\models\sql\query.py", line 1618, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\db\models\sql\query.py", line 1432, in build_lookup
+    lhs = self.try_transform(lhs, name, lookups)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\db\models\sql\query.py", line 1488, in try_transform
+    raise FieldError(
+    ...<2 lines>...
+    )
+django.core.exceptions.FieldError: Unsupported lookup 'full_name__icontains' for OneToOneField or join on the field not permitted.
+
+======================================================================
+INFO 2026-07-13 16:37:31,609 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=sar | Status: 500 | Time: 0.08s
+INFO 2026-07-13 16:38:37,918 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=sar | Status: 200 | Time: 0.07s
+INFO 2026-07-13 16:38:38,780 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=sar | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:38:41,686 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:38:56,498 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?status=PENDING | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:38:59,657 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:38:59,718 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:44:47,325 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:44:47,391 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:44:51,227 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:44:58,618 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/billing/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:45:03,314 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:45:24,368 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/prescription/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:45:50,476 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:45:50,540 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:45:58,888 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/prescription/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:46:06,848 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/prescription/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 16:46:17,043 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:46:17,053 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:46:18,342 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/add/ | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:46:18,352 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:46:22,252 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:46:22,260 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:46:25,284 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/1/change/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:46:25,293 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:46:34,732 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:46:34,742 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:46:35,938 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/add/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:46:35,947 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:47:06,547 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/clinicapp/prescription/add/ | Status: 302 | Time: 0.02s
+INFO 2026-07-13 16:47:06,559 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:47:06,572 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 16:47:09,839 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:47:15,009 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/prescription/?ordering=created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:47:17,867 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/prescription/?ordering=-created_at | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:47:31,607 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/prescription/?search=qon | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:47:56,471 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=qon | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:48:00,804 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 16:48:14,450 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?status=COMPLETED | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:48:17,080 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?ordering=created_at&status=COMPLETED | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:48:20,398 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?status= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:48:23,801 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?ordering=-created_at&status= | Status: 200 | Time: 0.02s
+INFO 2026-07-13 16:48:27,058 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?ordering=created_at&status= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 16:48:37,961 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=ukam | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:05:02,946 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 17:05:03,027 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.03s
+INFO 2026-07-13 17:05:07,710 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/medical-record/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 17:05:42,982 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:05:43,041 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.02s
+INFO 2026-07-13 17:05:54,457 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search=aziz | Status: 200 | Time: 0.31s
+INFO 2026-07-13 17:05:58,971 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/patient/?search= | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:06:03,650 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.14s
+INFO 2026-07-13 17:06:03,667 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:23,650 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.05s
+INFO 2026-07-13 17:08:23,663 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:24,125 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:24,133 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:24,267 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:24,279 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:24,413 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:24,423 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:24,541 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:24,550 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:25,949 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:25,958 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:26,791 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:26,800 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:27,290 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/billing/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:27,405 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:27,571 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/doctor/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:27,581 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:28,229 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/laboratory/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:28,238 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:29,276 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/patient/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:29,284 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:29,567 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/prescription/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:29,575 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:48,059 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:48,068 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:48,303 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:48,312 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:08:57,816 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.01s
+INFO 2026-07-13 17:08:57,825 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:09:39,971 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=ukam | Status: 401 | Time: 0.04s
+INFO 2026-07-13 17:09:41,975 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=ukam | Status: 401 | Time: 0.00s
+INFO 2026-07-13 17:09:47,432 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/clinicapp/appointment/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 17:09:47,443 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/admin/jsi18n/ | Status: 200 | Time: 0.00s
+INFO 2026-07-13 17:09:49,772 User: komiljonooov.d@gmail.com(ID:4) | GET http://127.0.0.1:8000/appointment/?search=ukam | Status: 401 | Time: 0.00s
+INFO 2026-07-13 17:10:38,810 User: komiljonooov.d@gmail.com(ID:4) | POST http://127.0.0.1:8000/admin/logout/ | Status: 200 | Time: 0.04s
+INFO 2026-07-13 17:10:40,724 User: Anonymous | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.02s
+ERROR 2026-07-13 17:10:40,870 
+======================================================================
+[TIME]: 2026-07-13 17:10:40
+[USER]: Anonymous
+[URL]: http://127.0.0.1:8000/swagger/?format=openapi
+[DATA]: No body
+[ERROR]: AttributeError: 'AnonymousUser' object has no attribute 'role'
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\views.py", line 129, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 337, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 561, in get_paths
+    operation = self.get_operation(
+        view, path, prefix, method, components, request
+    )
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 609, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 57, in get_operation
+    responses = self.get_responses()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 223, in get_responses
+    response_serializers = self.get_response_serializers()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 286, in get_response_serializers
+    responses = self.get_default_responses()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 256, in get_default_responses
+    default_schema = self.serializer_to_schema(default_schema) or ""
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 551, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        {"field_inspectors": self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 58, in get_schema
+    return self.probe_field_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        serializer, openapi.Schema, self.use_definitions
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 277, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 157, in field_to_swagger_object
+    actual_schema = definitions.setdefault(ref_name, make_schema_definition)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\openapi.py", line 825, in setdefault
+    ret = maker()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 128, in make_schema_definition
+    for property_name, child in serializer.fields.items():
+                                ^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\serializers.py", line 386, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\clinicapp\serializers\doctor_serializer.py", line 19, in get_fields
+    if request and request.user.role !='ADMIN':
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'role'
+
+======================================================================
+INFO 2026-07-13 17:10:40,871 User: Anonymous | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 500 | Time: 0.11s
+INFO 2026-07-13 17:10:48,287 User: Anonymous | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.00s
+ERROR 2026-07-13 17:10:48,328 
+======================================================================
+[TIME]: 2026-07-13 17:10:48
+[USER]: Anonymous
+[URL]: http://127.0.0.1:8000/swagger/?format=openapi
+[DATA]: No body
+[ERROR]: AttributeError: 'AnonymousUser' object has no attribute 'role'
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\views.py", line 129, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 337, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 561, in get_paths
+    operation = self.get_operation(
+        view, path, prefix, method, components, request
+    )
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 609, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 57, in get_operation
+    responses = self.get_responses()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 223, in get_responses
+    response_serializers = self.get_response_serializers()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 286, in get_response_serializers
+    responses = self.get_default_responses()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 256, in get_default_responses
+    default_schema = self.serializer_to_schema(default_schema) or ""
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 551, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        {"field_inspectors": self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 58, in get_schema
+    return self.probe_field_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        serializer, openapi.Schema, self.use_definitions
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 277, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 157, in field_to_swagger_object
+    actual_schema = definitions.setdefault(ref_name, make_schema_definition)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\openapi.py", line 825, in setdefault
+    ret = maker()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 128, in make_schema_definition
+    for property_name, child in serializer.fields.items():
+                                ^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\serializers.py", line 386, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\clinicapp\serializers\doctor_serializer.py", line 19, in get_fields
+    if request and request.user.role !='ADMIN':
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'role'
+
+======================================================================
+INFO 2026-07-13 17:10:48,328 User: Anonymous | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 500 | Time: 0.01s
+INFO 2026-07-13 17:11:38,441 User: Anonymous | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.00s
+ERROR 2026-07-13 17:11:38,489 
+======================================================================
+[TIME]: 2026-07-13 17:11:38
+[USER]: Anonymous
+[URL]: http://127.0.0.1:8000/swagger/?format=openapi
+[DATA]: No body
+[ERROR]: AttributeError: 'AnonymousUser' object has no attribute 'role'
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\views.py", line 129, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 337, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 561, in get_paths
+    operation = self.get_operation(
+        view, path, prefix, method, components, request
+    )
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 609, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 57, in get_operation
+    responses = self.get_responses()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 223, in get_responses
+    response_serializers = self.get_response_serializers()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 286, in get_response_serializers
+    responses = self.get_default_responses()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 256, in get_default_responses
+    default_schema = self.serializer_to_schema(default_schema) or ""
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 551, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        {"field_inspectors": self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 58, in get_schema
+    return self.probe_field_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        serializer, openapi.Schema, self.use_definitions
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 277, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 157, in field_to_swagger_object
+    actual_schema = definitions.setdefault(ref_name, make_schema_definition)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\openapi.py", line 825, in setdefault
+    ret = maker()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 128, in make_schema_definition
+    for property_name, child in serializer.fields.items():
+                                ^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\serializers.py", line 386, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\clinicapp\serializers\doctor_serializer.py", line 19, in get_fields
+    if request and request.user.role !='ADMIN':
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'role'
+
+======================================================================
+INFO 2026-07-13 17:11:38,489 User: Anonymous | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 500 | Time: 0.01s
+INFO 2026-07-13 17:11:39,152 User: Anonymous | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.00s
+ERROR 2026-07-13 17:11:39,189 
+======================================================================
+[TIME]: 2026-07-13 17:11:39
+[USER]: Anonymous
+[URL]: http://127.0.0.1:8000/swagger/?format=openapi
+[DATA]: No body
+[ERROR]: AttributeError: 'AnonymousUser' object has no attribute 'role'
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\core\handlers\base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\views\generic\base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\views.py", line 129, in get
+    schema = generator.get_schema(request, self.public)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 337, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 561, in get_paths
+    operation = self.get_operation(
+        view, path, prefix, method, components, request
+    )
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\generators.py", line 609, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 57, in get_operation
+    responses = self.get_responses()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 223, in get_responses
+    response_serializers = self.get_response_serializers()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 286, in get_response_serializers
+    responses = self.get_default_responses()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 256, in get_default_responses
+    default_schema = self.serializer_to_schema(default_schema) or ""
+                     ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 551, in serializer_to_schema
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        {"field_inspectors": self.field_inspectors},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 58, in get_schema
+    return self.probe_field_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        serializer, openapi.Schema, self.use_definitions
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 277, in probe_field_inspectors
+    return self.probe_inspectors(
+           ~~~~~~~~~~~~~~~~~~~~~^
+        self.field_inspectors,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 137, in probe_inspectors
+    result = method(obj, **kwargs)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 157, in field_to_swagger_object
+    actual_schema = definitions.setdefault(ref_name, make_schema_definition)
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\openapi.py", line 825, in setdefault
+    ret = maker()
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 128, in make_schema_definition
+    for property_name, child in serializer.fields.items():
+                                ^^^^^^^^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\komil\Django\Clinic Management System\venv\Lib\site-packages\rest_framework\serializers.py", line 386, in fields
+    for key, value in self.get_fields().items():
+                      ~~~~~~~~~~~~~~~^^
+  File "C:\Users\komil\Django\Clinic Management System\clinicapp\serializers\doctor_serializer.py", line 19, in get_fields
+    if request and request.user.role !='ADMIN':
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'role'
+
+======================================================================
+INFO 2026-07-13 17:11:39,189 User: Anonymous | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 500 | Time: 0.01s
+INFO 2026-07-13 17:12:23,121 User: Anonymous | GET http://127.0.0.1:8000/patient/?search= | Status: 401 | Time: 0.03s
+INFO 2026-07-13 17:12:26,001 User: Anonymous | GET http://127.0.0.1:8000/swagger/ | Status: 200 | Time: 0.03s
+INFO 2026-07-13 17:12:26,052 User: Anonymous | GET http://127.0.0.1:8000/swagger/?format=openapi | Status: 200 | Time: 0.02s
+INFO 2026-07-13 12:39:35,568 User: Anonymous | GET http://localhost:8000/ | Status: 404 | Time: 2.16s
+INFO 2026-07-13 12:39:41,963 User: Anonymous | GET http://localhost:8000/ad,min | Status: 404 | Time: 0.00s
+INFO 2026-07-13 12:39:47,316 User: Anonymous | GET http://localhost:8000/admin/ | Status: 302 | Time: 0.01s
+INFO 2026-07-13 12:39:47,363 User: Anonymous | GET http://localhost:8000/admin/login/?next=/admin/ | Status: 200 | Time: 0.04s
+ERROR 2026-07-13 12:39:47,380 
+======================================================================
+[TIME]: 2026-07-13 12:39:47
+[USER]: Anonymous
+[URL]: http://localhost:8000/static/admin/css/base.css
+[DATA]: No body
+[ERROR]: Http404: вЂњ/app/staticfiles/admin/css/base.cssвЂќ does not exist
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/static.py", line 51, in serve
+    raise Http404(_("вЂњ%(path)sвЂќ does not exist") % {"path": fullpath})
+django.http.response.Http404: вЂњ/app/staticfiles/admin/css/base.cssвЂќ does not exist
+
+======================================================================
+INFO 2026-07-13 12:39:47,382 User: Anonymous | GET http://localhost:8000/static/admin/css/base.css | Status: 500 | Time: 0.01s
+ERROR 2026-07-13 12:39:47,387 
+======================================================================
+[TIME]: 2026-07-13 12:39:47
+[USER]: Anonymous
+[URL]: http://localhost:8000/static/admin/css/dark_mode.css
+[DATA]: No body
+[ERROR]: Http404: вЂњ/app/staticfiles/admin/css/dark_mode.cssвЂќ does not exist
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/static.py", line 51, in serve
+    raise Http404(_("вЂњ%(path)sвЂќ does not exist") % {"path": fullpath})
+django.http.response.Http404: вЂњ/app/staticfiles/admin/css/dark_mode.cssвЂќ does not exist
+
+======================================================================
+INFO 2026-07-13 12:39:47,388 User: Anonymous | GET http://localhost:8000/static/admin/css/dark_mode.css | Status: 500 | Time: 0.00s
+ERROR 2026-07-13 12:39:47,394 
+======================================================================
+[TIME]: 2026-07-13 12:39:47
+[USER]: Anonymous
+[URL]: http://localhost:8000/static/admin/css/nav_sidebar.css
+[DATA]: No body
+[ERROR]: Http404: вЂњ/app/staticfiles/admin/css/nav_sidebar.cssвЂќ does not exist
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/static.py", line 51, in serve
+    raise Http404(_("вЂњ%(path)sвЂќ does not exist") % {"path": fullpath})
+django.http.response.Http404: вЂњ/app/staticfiles/admin/css/nav_sidebar.cssвЂќ does not exist
+
+======================================================================
+INFO 2026-07-13 12:39:47,395 User: Anonymous | GET http://localhost:8000/static/admin/css/nav_sidebar.css | Status: 500 | Time: 0.00s
+ERROR 2026-07-13 12:39:47,401 
+======================================================================
+[TIME]: 2026-07-13 12:39:47
+[USER]: Anonymous
+[URL]: http://localhost:8000/static/admin/js/theme.js
+[DATA]: No body
+[ERROR]: Http404: вЂњ/app/staticfiles/admin/js/theme.jsвЂќ does not exist
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/static.py", line 51, in serve
+    raise Http404(_("вЂњ%(path)sвЂќ does not exist") % {"path": fullpath})
+django.http.response.Http404: вЂњ/app/staticfiles/admin/js/theme.jsвЂќ does not exist
+
+======================================================================
+INFO 2026-07-13 12:39:47,403 User: Anonymous | GET http://localhost:8000/static/admin/js/theme.js | Status: 500 | Time: 0.00s
+ERROR 2026-07-13 12:39:47,406 
+======================================================================
+[TIME]: 2026-07-13 12:39:47
+[USER]: Anonymous
+[URL]: http://localhost:8000/static/admin/css/login.css
+[DATA]: No body
+[ERROR]: Http404: вЂњ/app/staticfiles/admin/css/login.cssвЂќ does not exist
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/static.py", line 51, in serve
+    raise Http404(_("вЂњ%(path)sвЂќ does not exist") % {"path": fullpath})
+django.http.response.Http404: вЂњ/app/staticfiles/admin/css/login.cssвЂќ does not exist
+
+======================================================================
+INFO 2026-07-13 12:39:47,408 User: Anonymous | GET http://localhost:8000/static/admin/css/login.css | Status: 500 | Time: 0.00s
+ERROR 2026-07-13 12:39:47,413 
+======================================================================
+[TIME]: 2026-07-13 12:39:47
+[USER]: Anonymous
+[URL]: http://localhost:8000/static/admin/css/responsive.css
+[DATA]: No body
+[ERROR]: Http404: вЂњ/app/staticfiles/admin/css/responsive.cssвЂќ does not exist
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/static.py", line 51, in serve
+    raise Http404(_("вЂњ%(path)sвЂќ does not exist") % {"path": fullpath})
+django.http.response.Http404: вЂњ/app/staticfiles/admin/css/responsive.cssвЂќ does not exist
+
+======================================================================
+INFO 2026-07-13 12:39:47,415 User: Anonymous | GET http://localhost:8000/static/admin/css/responsive.css | Status: 500 | Time: 0.00s
+ERROR 2026-07-13 12:39:47,418 
+======================================================================
+[TIME]: 2026-07-13 12:39:47
+[USER]: Anonymous
+[URL]: http://localhost:8000/static/admin/css/nav_sidebar.css
+[DATA]: No body
+[ERROR]: Http404: вЂњ/app/staticfiles/admin/css/nav_sidebar.cssвЂќ does not exist
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/static.py", line 51, in serve
+    raise Http404(_("вЂњ%(path)sвЂќ does not exist") % {"path": fullpath})
+django.http.response.Http404: вЂњ/app/staticfiles/admin/css/nav_sidebar.cssвЂќ does not exist
+
+======================================================================
+INFO 2026-07-13 12:39:47,419 User: Anonymous | GET http://localhost:8000/static/admin/css/nav_sidebar.css | Status: 500 | Time: 0.00s
+ERROR 2026-07-13 12:39:47,424 
+======================================================================
+[TIME]: 2026-07-13 12:39:47
+[USER]: Anonymous
+[URL]: http://localhost:8000/static/admin/js/nav_sidebar.js
+[DATA]: No body
+[ERROR]: Http404: вЂњ/app/staticfiles/admin/js/nav_sidebar.jsвЂќ does not exist
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/static.py", line 51, in serve
+    raise Http404(_("вЂњ%(path)sвЂќ does not exist") % {"path": fullpath})
+django.http.response.Http404: вЂњ/app/staticfiles/admin/js/nav_sidebar.jsвЂќ does not exist
+
+======================================================================
+INFO 2026-07-13 12:39:47,425 User: Anonymous | GET http://localhost:8000/static/admin/js/nav_sidebar.js | Status: 500 | Time: 0.00s
+INFO 2026-07-13 13:11:26,305 User: Anonymous | GET http://localhost:8000/admin/ | Status: 302 | Time: 0.01s
+INFO 2026-07-13 13:11:26,359 User: Anonymous | GET http://localhost:8000/admin/login/?next=/admin/ | Status: 200 | Time: 0.05s
+ERROR 2026-07-13 13:11:29,409 
+======================================================================
+[TIME]: 2026-07-13 13:11:29
+[USER]: Anonymous
+[URL]: http://localhost:8000/admin/login/?next=/admin/
+[DATA]: csrfmiddlewaretoken=FJ5cEN6xTthnca5OJDJE1qCEQ6HgQlCVqDdt6V3d5xrdJFiRzfgsnGJpzqRef5PJ&username=komiljonooov.d%40gmail.com&password=1&next=%2Fadmin%2F
+[ERROR]: ProgrammingError: relation "usersapp_user" does not exist
+LINE 1: ...rsapp_user"."email", "usersapp_user"."phone" FROM "usersapp_...
+                                                             ^
+
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedTable: relation "usersapp_user" does not exist
+LINE 1: ...rsapp_user"."email", "usersapp_user"."phone" FROM "usersapp_...
+                                                             ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 450, in login
+    return LoginView.as_view(**defaults)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/edit.py", line 150, in post
+    if form.is_valid():
+       ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 206, in is_valid
+    return self.is_bound and not self.errors
+                                 ^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 201, in errors
+    self.full_clean()
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 338, in full_clean
+    self._clean_form()
+  File "/usr/local/lib/python3.12/site-packages/django/forms/forms.py", line 354, in _clean_form
+    cleaned_data = self.clean()
+                   ^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 75, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/forms.py", line 349, in clean
+    self.user_cache = authenticate(
+                      ^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 75, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/__init__.py", line 114, in authenticate
+    user = backend.authenticate(request, **credentials)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/backends.py", line 65, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/base_user.py", line 37, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 635, in get
+    num = len(clone)
+          ^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 372, in __len__
+    self._fetch_all()
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 2000, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/query.py", line 95, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1624, in execute_sql
+    cursor.execute(sql, params)
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/db/utils.py", line 94, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/usr/local/lib/python3.12/site-packages/django/db/backends/utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: relation "usersapp_user" does not exist
+LINE 1: ...rsapp_user"."email", "usersapp_user"."phone" FROM "usersapp_...
+                                                             ^
+
+
+======================================================================
+INFO 2026-07-13 13:11:29,411 User: Anonymous | POST http://localhost:8000/admin/login/?next=/admin/ | Status: 500 | Time: 0.03s
+INFO 2026-07-13 13:13:52,262 User: Anonymous | GET http://localhost:8000/admin/login/?next=/admin/ | Status: 200 | Time: 0.00s
+ERROR 2026-07-13 13:13:55,539 
+======================================================================
+[TIME]: 2026-07-13 13:13:55
+[USER]: Anonymous
+[URL]: http://localhost:8000/admin/login/?next=/admin/
+[DATA]: csrfmiddlewaretoken=FJ5cEN6xTthnca5OJDJE1qCEQ6HgQlCVqDdt6V3d5xrdJFiRzfgsnGJpzqRef5PJ&username=komiljonooov.d%40gmail.com&password=1&next=%2Fadmin%2F
+[ERROR]: ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 48, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 162, in has_key
+    return self.client.has_key(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/client/default.py", line 830, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 450, in login
+    return LoginView.as_view(**defaults)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/edit.py", line 151, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 108, in form_valid
+    auth_login(self.request, form.get_user())
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/__init__.py", line 187, in login
+    request.session.cycle_key()
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/base.py", line 434, in cycle_key
+    self.create()
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/cache.py", line 55, in create
+    self._session_key = self._get_new_session_key()
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/base.py", line 198, in _get_new_session_key
+    if not self.exists(session_key):
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/cache.py", line 117, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/core/cache/backends/base.py", line 301, in __contains__
+    return self.has_key(key)
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 55, in _decorator
+    raise e.__cause__  # type: ignore[misc] # noqa: B904
+    ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/client/default.py", line 828, in has_key
+    return client.exists(key) == 1
+           ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/commands/core.py", line 2971, in exists
+    return self.execute_command("EXISTS", *names, keys=names)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/client.py", line 798, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/client.py", line 804, in _execute_command
+    conn = self.connection or pool.get_connection()
+                              ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/utils.py", line 258, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 3163, in get_connection
+    connection.connect()
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1007, in connect
+    self.retry.call_with_retry(
+  File "/usr/local/lib/python3.12/site-packages/redis/retry.py", line 132, in call_with_retry
+    raise error
+  File "/usr/local/lib/python3.12/site-packages/redis/retry.py", line 120, in call_with_retry
+    return do()
+           ^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1008, in <lambda>
+    lambda: self.connect_check_health(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1056, in connect_check_health
+    raise e
+redis.exceptions.ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+
+======================================================================
+INFO 2026-07-13 13:13:55,540 User: Anonymous | POST http://localhost:8000/admin/login/?next=/admin/ | Status: 500 | Time: 4.18s
+ERROR 2026-07-13 13:13:58,327 
+======================================================================
+[TIME]: 2026-07-13 13:13:58
+[USER]: Anonymous
+[URL]: http://localhost:8000/admin/login/?next=/admin/
+[DATA]: csrfmiddlewaretoken=tzXCmxrY2wBxg8ARzs3eaTcuVi859LYpet5TOFoEeALnNDNUp4A2w9jfECi3yvbd&username=komiljonooov.d%40gmail.com&password=1&next=%2Fadmin%2F
+[ERROR]: ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 48, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 162, in has_key
+    return self.client.has_key(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/client/default.py", line 830, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 450, in login
+    return LoginView.as_view(**defaults)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/edit.py", line 151, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 108, in form_valid
+    auth_login(self.request, form.get_user())
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/__init__.py", line 187, in login
+    request.session.cycle_key()
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/base.py", line 434, in cycle_key
+    self.create()
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/cache.py", line 55, in create
+    self._session_key = self._get_new_session_key()
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/base.py", line 198, in _get_new_session_key
+    if not self.exists(session_key):
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/cache.py", line 117, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/core/cache/backends/base.py", line 301, in __contains__
+    return self.has_key(key)
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 55, in _decorator
+    raise e.__cause__  # type: ignore[misc] # noqa: B904
+    ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/client/default.py", line 828, in has_key
+    return client.exists(key) == 1
+           ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/commands/core.py", line 2971, in exists
+    return self.execute_command("EXISTS", *names, keys=names)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/client.py", line 798, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/client.py", line 804, in _execute_command
+    conn = self.connection or pool.get_connection()
+                              ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/utils.py", line 258, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 3163, in get_connection
+    connection.connect()
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1007, in connect
+    self.retry.call_with_retry(
+  File "/usr/local/lib/python3.12/site-packages/redis/retry.py", line 132, in call_with_retry
+    raise error
+  File "/usr/local/lib/python3.12/site-packages/redis/retry.py", line 120, in call_with_retry
+    return do()
+           ^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1008, in <lambda>
+    lambda: self.connect_check_health(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1056, in connect_check_health
+    raise e
+redis.exceptions.ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+
+======================================================================
+INFO 2026-07-13 13:13:58,328 User: Anonymous | POST http://localhost:8000/admin/login/?next=/admin/ | Status: 500 | Time: 4.15s
+ERROR 2026-07-13 13:14:22,474 
+======================================================================
+[TIME]: 2026-07-13 13:14:22
+[USER]: Anonymous
+[URL]: http://localhost:8000/admin/login/?next=/admin/
+[DATA]: csrfmiddlewaretoken=tzXCmxrY2wBxg8ARzs3eaTcuVi859LYpet5TOFoEeALnNDNUp4A2w9jfECi3yvbd&username=komiljonooov.d%40gmail.com&password=1&next=%2Fadmin%2F
+[ERROR]: ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 48, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 162, in has_key
+    return self.client.has_key(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/client/default.py", line 830, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 450, in login
+    return LoginView.as_view(**defaults)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/edit.py", line 151, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 108, in form_valid
+    auth_login(self.request, form.get_user())
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/__init__.py", line 187, in login
+    request.session.cycle_key()
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/base.py", line 434, in cycle_key
+    self.create()
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/cache.py", line 55, in create
+    self._session_key = self._get_new_session_key()
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/base.py", line 198, in _get_new_session_key
+    if not self.exists(session_key):
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/cache.py", line 117, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/core/cache/backends/base.py", line 301, in __contains__
+    return self.has_key(key)
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 55, in _decorator
+    raise e.__cause__  # type: ignore[misc] # noqa: B904
+    ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/client/default.py", line 828, in has_key
+    return client.exists(key) == 1
+           ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/commands/core.py", line 2971, in exists
+    return self.execute_command("EXISTS", *names, keys=names)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/client.py", line 798, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/client.py", line 804, in _execute_command
+    conn = self.connection or pool.get_connection()
+                              ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/utils.py", line 258, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 3163, in get_connection
+    connection.connect()
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1007, in connect
+    self.retry.call_with_retry(
+  File "/usr/local/lib/python3.12/site-packages/redis/retry.py", line 132, in call_with_retry
+    raise error
+  File "/usr/local/lib/python3.12/site-packages/redis/retry.py", line 120, in call_with_retry
+    return do()
+           ^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1008, in <lambda>
+    lambda: self.connect_check_health(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1056, in connect_check_health
+    raise e
+redis.exceptions.ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+
+======================================================================
+INFO 2026-07-13 13:14:22,476 User: Anonymous | POST http://localhost:8000/admin/login/?next=/admin/ | Status: 500 | Time: 4.20s
+ERROR 2026-07-13 13:14:33,582 
+======================================================================
+[TIME]: 2026-07-13 13:14:33
+[USER]: Anonymous
+[URL]: http://localhost:8000/admin/login/?next=/admin/
+[DATA]: csrfmiddlewaretoken=tzXCmxrY2wBxg8ARzs3eaTcuVi859LYpet5TOFoEeALnNDNUp4A2w9jfECi3yvbd&username=komiljonooov.d%40gmail.com&password=1&next=%2Fadmin%2F
+[ERROR]: ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+[TRACEBACK]:
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 48, in _decorator
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 162, in has_key
+    return self.client.has_key(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/client/default.py", line 830, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/django/core/handlers/base.py", line 198, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/admin/sites.py", line 450, in login
+    return LoginView.as_view(**defaults)(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 106, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/utils/decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/decorators/cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 89, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/base.py", line 145, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/views/generic/edit.py", line 151, in post
+    return self.form_valid(form)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/views.py", line 108, in form_valid
+    auth_login(self.request, form.get_user())
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/auth/__init__.py", line 187, in login
+    request.session.cycle_key()
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/base.py", line 434, in cycle_key
+    self.create()
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/cache.py", line 55, in create
+    self._session_key = self._get_new_session_key()
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/base.py", line 198, in _get_new_session_key
+    if not self.exists(session_key):
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/contrib/sessions/backends/cache.py", line 117, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django/core/cache/backends/base.py", line 301, in __contains__
+    return self.has_key(key)
+           ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/cache.py", line 55, in _decorator
+    raise e.__cause__  # type: ignore[misc] # noqa: B904
+    ^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/django_redis/client/default.py", line 828, in has_key
+    return client.exists(key) == 1
+           ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/commands/core.py", line 2971, in exists
+    return self.execute_command("EXISTS", *names, keys=names)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/client.py", line 798, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/client.py", line 804, in _execute_command
+    conn = self.connection or pool.get_connection()
+                              ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/utils.py", line 258, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 3163, in get_connection
+    connection.connect()
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1007, in connect
+    self.retry.call_with_retry(
+  File "/usr/local/lib/python3.12/site-packages/redis/retry.py", line 132, in call_with_retry
+    raise error
+  File "/usr/local/lib/python3.12/site-packages/redis/retry.py", line 120, in call_with_retry
+    return do()
+           ^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1008, in <lambda>
+    lambda: self.connect_check_health(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/site-packages/redis/connection.py", line 1056, in connect_check_health
+    raise e
+redis.exceptions.ConnectionError: Error -2 connecting to redis:6379. Name or service not known.
+
+======================================================================
+INFO 2026-07-13 13:14:33,583 User: Anonymous | POST http://localhost:8000/admin/login/?next=/admin/ | Status: 500 | Time: 4.17s
+INFO 2026-07-13 13:20:13,187 User: Anonymous | POST http://localhost:8000/admin/login/?next=/admin/ | Status: 302 | Time: 0.19s
+INFO 2026-07-13 13:20:13,230 User: komiljonooov.d@gmail.com(ID:1) | GET http://localhost:8000/admin/ | Status: 200 | Time: 0.04s

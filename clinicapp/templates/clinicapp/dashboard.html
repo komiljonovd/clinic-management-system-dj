@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <style>
+        body { background-color: #f8f9fa; font-family: 'Segoe UI', sans-serif; }
+        .card { border: none; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        .stat-icon { font-size: 2rem; opacity: 0.6; }
+        .card-header { background: transparent; border-bottom: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+<div class="container py-4">
+    <h2 class="mb-4">Clinic Management Dashboard</h2>
+    
+    <div class="row g-4 mb-4">
+        <div class="col-md-3">
+            <div class="card p-3 text-primary">
+                <i class="bi bi-person-check stat-icon"></i>
+                <div class="card-body p-0">
+                    <small>Bugungi bemorlar</small>
+                    <h3>{{ daily_patients }}</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card p-3 text-success">
+                <i class="bi bi-cash-stack stat-icon"></i>
+                <div class="card-body p-0">
+                    <small>Jami daromad</small>
+                    <h3>{{ total_revenue|floatformat:0 }} <small>UZS</small></h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card p-3 text-info">
+                <i class="bi bi-calendar-check stat-icon"></i>
+                <div class="card-body p-0">
+                    <small>Oylik daromad</small>
+                    <h3>{{ monthly_revenue|floatformat:0 }} <small>UZS</small></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row g-4">
+        <div class="col-md-6">
+            <div class="card h-100 p-3">
+                <div class="card-header"><i class="bi bi-people"></i> Shifokorlar bandligi</div>
+                <div class="card-body">
+                    {% for doc in doctors_load %}
+                    <div class="d-flex justify-content-between mb-2">
+                        <span>{{ doc.user.first_name }} {{ doc.user.last_name }}</span>
+                        <span class="badge bg-primary">{{ doc.appointment_count }} qabul</span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card h-100 p-3">
+                <div class="card-header"><i class="bi bi-clipboard-pulse"></i> Eng ko'p tashxislar</div>
+                <div class="card-body">
+                    {% for diag in top_diagnoses %}
+                    <div class="mb-2">
+                        <small>{{ diag.prescription__diagnosis|truncatechars:40 }}</small>
+                        <div class="progress" style="height: 10px;">
+                            <div class="progress-bar bg-warning" style="width: {{ diag.count|add:20 }}%"></div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
